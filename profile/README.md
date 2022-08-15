@@ -11,5 +11,5 @@ In this organization you will find links to various ongoing research initiatives
 | [datasets](https://github.com/caidm-research/datasets)     | Datasets available for experimentation                    |
 | [models](https://github.com/caidm-research/models)         | Reusable machine learning models                          |
 | [projects](https://github.com/caidm-research/projects)     | An overview of active projects                            |
-| [site](https://github.com/caidm-research/site)             | A website of everything machine learning related at CAIDM |
+| [site](https://github.com/caidm-research/site)             | Site of everything machine learning related at CAIDM      |
 | [tutorials](https://github.com/caidm-research/tutorials)   | Lab meeting tutorials                                     |
