@@ -2,7 +2,7 @@
 
 Welcome to the [Center for Artificial Intelligence in Diagnostic Medicine](https://www.caidm.som.uci.edu/) (CAIDM) research GitHub!
 
-In this organization you will find links to various ongoing research initiatives at CAIDM.
+Here are some links to various ongoing research initiatives at CAIDM.
 
 | Repository                                                 | Description                                               |
 | ---------------------------------------------------------- | --------------------------------------------------------- |
